@@ -17,10 +17,6 @@ You’d use GET for getting all books or getting only one book by id. With the P
 
 For this kind of application, you don’t have to use the database, and for the first app, you can start with data collected as a JSON file.
 
-## This project is part of Duomly Projects
+## This project is part of a practice.
 
-This repository is used for Practicing nodejs projects mentioned in this Duomly video to refresh about Nodejs
-
-https://youtu.be/WxsrnhjXAoc
-
-https://dev.to/duomly/7-amazing-node-js-project-ideas-for-beginners-to-practice-your-skill-and-get-hired-217m
+This repository is used for Practicing nodejs projects to refresh about Nodejs
