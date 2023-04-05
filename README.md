@@ -2,10 +2,18 @@
 
 ## Instructions
 
+
+
 1. Clone this repo
 2. Run `npm install` command inside the project
 3. For development run `npm run start:dev`
 4. For production run `npm run start`
+
+
+## Connect through your localhost on browser (HTTP)
+
+1. add this at the end of your url : /api/v1/books
+
 
 ## Problem Statement
 
@@ -17,10 +25,4 @@ You’d use GET for getting all books or getting only one book by id. With the P
 
 For this kind of application, you don’t have to use the database, and for the first app, you can start with data collected as a JSON file.
 
-## This project is part of Duomly Projects
-
-This repository is used for Practicing nodejs projects mentioned in this Duomly video to refresh about Nodejs
-
-https://youtu.be/WxsrnhjXAoc
-
-https://dev.to/duomly/7-amazing-node-js-project-ideas-for-beginners-to-practice-your-skill-and-get-hired-217m
+## This project is part of a practice
