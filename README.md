@@ -25,4 +25,10 @@ You’d use GET for getting all books or getting only one book by id. With the P
 
 For this kind of application, you don’t have to use the database, and for the first app, you can start with data collected as a JSON file.
 
+<<<<<<< HEAD
 ## This project is part of a practice
+=======
+## This project is part of a practice.
+
+This repository is used for Practicing nodejs projects to refresh about Nodejs
+>>>>>>> f7c3fed7fd5c89ee1189fa17619de366f823a267
